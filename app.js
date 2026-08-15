@@ -1,1 +1,1 @@
-console.log("Hello from Jenkins CI/CD Pipeline");
+console.log("Testing automatic Jenkins SCM polling");
