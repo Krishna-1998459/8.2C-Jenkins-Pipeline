@@ -1,1 +1,1 @@
-console.log("Testing automatic Jenkins SCM polling");
+console.log("Final automatic SCM polling test");
